@@ -100,10 +100,10 @@
 <!-- GitHub Stats -->
 <h2 align="left">📊 GitHub Stats</h2> 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icuarqm&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages Used" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icuarqm&show_icons=true&theme=tokyonight&locale=en&layout=compact&cache_seconds=30" alt="Top Languages Used" />
 </p> 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=icuarqm&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=icuarqm&show_icons=true&theme=tokyonight&locale=en&cache_seconds=30" alt="GitHub Stats" />
 </p>
 
 ## 🐍 My Contributions — The Snake Edition
