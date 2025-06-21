@@ -1,4 +1,4 @@
-<h1 align="center">This is icuarqm — burning slow</h1> 
+<h1 align="center">This is icuarqm</h1> 
 <h3 align="center">A ghost in the repo — Türkiye origin.</h3> 
 
 <!-- My Links -->
