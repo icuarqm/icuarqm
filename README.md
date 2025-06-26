@@ -103,22 +103,20 @@
   <img src="https://github.com/icuarqm/icuarqm/blob/output/github-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
-<details>
-  <summary><h2>📊 Stats</h2></summary>
+## 📊 Stats
 
-  <!-- GitHub Stats -->
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icuarqm&show_icons=true&theme=tokyonight&locale=en&layout=compact&cache_seconds=30" alt="Top Languages Used" />
-  </p>
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=icuarqm&show_icons=true&theme=tokyonight&locale=en&cache_seconds=30" alt="GitHub Stats" />
-  </p>
+<!-- GitHub Stats -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=icuarqm&show_icons=true&theme=tokyonight&locale=en&layout=compact&cache_seconds=30" alt="Top Languages Used" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=icuarqm&show_icons=true&theme=tokyonight&locale=en&cache_seconds=30" alt="GitHub Stats" />
+</p>
 
-  <!-- Wakatime Stats -->
-  <h3 align="left">⏰ Coding Time Stats</h3>
-  <p align="center">
-    <img src="https://wakatime.com/share/@eeae8895-1ad2-481a-b8a6-2ee6dcc50b60/e5cedf61-ba91-4038-a2f3-7aa3e83b4b07.svg" alt="Wakatime Stats" width="85%" />
-  </p>
+<!-- Wakatime Stats -->
+<h3 align="left">⏰ Coding Time Stats</h3>
+<p align="center">
+  <img src="https://wakatime.com/share/@eeae8895-1ad2-481a-b8a6-2ee6dcc50b60/e5cedf61-ba91-4038-a2f3-7aa3e83b4b07.svg" alt="Wakatime Stats" />
+</p>
 
-</details>
 
