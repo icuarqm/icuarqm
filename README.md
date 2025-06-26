@@ -117,7 +117,7 @@
   <!-- Wakatime Stats -->
   <h3 align="left">⏰ Coding Time Stats</h3>
   <p align="center">
-    <img src="https://wakatime.com/share/@eeae8895-1ad2-481a-b8a6-2ee6dcc50b60/e5cedf61-ba91-4038-a2f3-7aa3e83b4b07.svg" alt="Wakatime Stats" width="80%" />
+    <img src="https://wakatime.com/share/@eeae8895-1ad2-481a-b8a6-2ee6dcc50b60/e5cedf61-ba91-4038-a2f3-7aa3e83b4b07.svg" alt="Wakatime Stats" width="85%" />
   </p>
 
 </details>
