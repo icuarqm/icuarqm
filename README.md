@@ -1,5 +1,13 @@
-<h1 align="center">This is icuarqm</h1> 
-<h3 align="center">A ghost in the repo — Türkiye origin.</h3> 
+<div align="center">
+  <h1>This is icuarqm</h1>
+  <h3>A ghost in the repo — Türkiye origin.</h3>
+</div>
+
+<div align="right">
+  <a href="https://awesome.re" target="_blank" rel="noopener noreferrer">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+</div>
 
 <!-- My Links -->
 <h4 align="left" style="color:gray; font-weight: normal;">🔗 My Links</h4>
