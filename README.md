@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-🔭 I'm currently working on my Project [NexForm](https://github.com/icuarqm/NexForm)
+🔭 I'm currently working on confidential projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-oğuz-0ba32228b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ali.oguz0119@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/icuarqm/)
@@ -12,15 +12,7 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=icuarqm&show_icons=true&theme=dracula&include_all_commits=true&count_private=false" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icuarqm&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=icuarqm&layout=compact&theme=dracula" />
 </p>
 
 ## 🐍 Nom nom nom:
